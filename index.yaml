@@ -9,6 +9,6 @@ entries:
     name: firstChart
     type: application
     urls:
-    - https://github.com/PrasunB07/helmdemo/blob/main/firstChart/firstChart-0.1.0.tgz
+    - https://github.com/PrasunB07/helmdemo/blob/main/firstChart-0.1.0.tgz
     version: 0.1.0
-generated: "2023-06-13T07:33:48.134757573Z"
+generated: "2023-06-13T04:50:41.081042075Z"
